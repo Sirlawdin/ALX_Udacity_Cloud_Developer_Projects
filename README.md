@@ -1,18 +1,4 @@
-## Deploy Static Website on AWS
+# ALX Udacity Cloud Developer Projects
 
-In this project, A static website was deployed to AWS using S3, CloudFront, and IAM.
-
-The files included are: 
-
-01-created S3 bucket.PNG  - Created an S3 bucket (udacity-project1-static-website-bucket) for the website and unchecked the block public access settings  
-02-Uploaded Website files.PNG  -  Uploaded the website files to the created bucket
-03-Enabled Static Website Hosting.PNG  -  Enabled Static Website Hosting in the bucket
-04-Bucket Policy Updated.PNG  - Created a bucket Policy to make the content of the bucket public
-05-Created CloudFront Distribution.PNG  - Created a CloudFront Distribution to distribute website.
-
-Website endpoint: http://udacitycloudbucket.s3-website-us-east-1.amazonaws.com
-
-CloudFront Domain Name: https://d2jg5nbsupr5ub.cloudfront.net
-
-Customized error Page: https://d2jg5nbsupr5ub.cloudfront.net/error
-
+## [01-Deploy Static Website on AWS: 01-Deploy\ Static\ Website\ on\ AWS](https://github.com/Sirlawdin/ALX_Udacity_Cloud_Developer_Projects/tree/main/01-Deploy%20Static%20Website%20on%20AWS)
+[![Image](https://drive.google.com/file/d/1Z0k7ty5TNC5_z_rSBmhAC91pPm7JrUTN/view?usp=sharing "Salaudeen's Travel Blog")](https://github.com/Sirlawdin/ALX_Udacity_Cloud_Developer_Projects/tree/main/01-Deploy%20Static%20Website%20on%20AWS)
